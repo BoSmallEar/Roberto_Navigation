@@ -1,0 +1,8 @@
+prefix=/home/zzliu/roberto_navigation/roberto_ws/install
+
+Name: roberto_test_navigation
+Description: Description of roberto_test_navigation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

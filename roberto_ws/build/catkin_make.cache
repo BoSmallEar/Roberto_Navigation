@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/zzliu/roberto/roberto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zzliu/roberto/roberto_ws/install -G Unix Makefiles
+roberto_test_navigation
+-DCATKIN_DEVEL_PREFIX=/home/zzliu/roberto_navigation/roberto_ws/devel -DCMAKE_INSTALL_PREFIX=/home/zzliu/roberto_navigation/roberto_ws/install -DCATKIN_WHITELIST_PACKAGES=roberto_test_navigation -G Unix Makefiles

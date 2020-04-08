@@ -1,0 +1,4 @@
+<launch> 
+    <node pkg = "roberto_test_navigation" type = "key_vel_publisher.py" name = "key_vel_publisher" output = "screen">
+    </node>
+</launch>

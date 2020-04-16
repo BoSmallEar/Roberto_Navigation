@@ -1,4 +1,4 @@
-0. Put roberto_navigation and roberto-arm-pickup under the same cakkin workspace, source setup.sh, run catkin_make
+0. Clone roberto_navigation and roberto-arm-pickup under the same catkin workspace, source setup.sh, run catkin_make
 
 1. roscore
 

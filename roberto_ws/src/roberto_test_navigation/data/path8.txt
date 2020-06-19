@@ -1,0 +1,6 @@
+1
+1 0 0 0 0 0 1
+
+
+ 
+after pick up P3, back to D, then back to C, then back to B, then back to A, then go to trashbin, then go to A, then go to B, then go to C, then go to D, then go to E, then check E, then go to A
